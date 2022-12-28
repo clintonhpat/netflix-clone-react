@@ -8,7 +8,7 @@ An application created to emulate the appearance of the popular movie streaming 
   src="https://i.ibb.co/pz5d537/notflix.png"
   alt="Alt text"
   title="image"
-  style="display: inline-block; margin: 0 auto; max-width: 300px">
+  style="display: inline-block; margin: 0 auto; max-width: 300px max-height: 300px">
 
 ## Installation and Setup Instructions 
 
