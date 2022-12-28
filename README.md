@@ -4,11 +4,7 @@ An application created to emulate the appearance of the popular movie streaming 
 
 ## Project Screen Shot(s) 
 
-<img
-  src="https://i.ibb.co/pz5d537/notflix.png"
-  alt="Alt text"
-  title="image"
-  style="display: inline-block; margin: 0 auto; max-width: 300px max-height: 300px">
+![Alt text](https://i.ibb.co/3vtsWx4/notflix.png)
 
 ## Installation and Setup Instructions 
 
