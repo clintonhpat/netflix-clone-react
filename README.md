@@ -4,7 +4,7 @@ An application created to emulate the appearance of the popular movie streaming 
 
 ## Project Screen Shot(s) 
 
-![Alt text](https://i.ibb.co/pz5d537/notflix.png)
+![Alt text](https://i.ibb.co/pz5d537/notflix.png "image")
 
 ## Installation and Setup Instructions 
 
